@@ -1,0 +1,25 @@
+
+body {
+    background-image: url('Bg-image.avif');
+    background-repeat:no-repeat;
+    background-image: cover;
+    opacity:0.6;
+}
+form div{
+    background-color:indigo;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 50px;
+    border: 20px purple;
+    text-align: left;
+    padding: 10px;
+    margin: 0px;
+}
+
+button {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    padding: 10px 200px;
+    border: none;
+}
