@@ -18,6 +18,9 @@ body {
     padding: 10px;
 }
 
+p{
+    font-size: 30px;
+}
 textarea{
     background-color:none;
     opacity: 0.2;
