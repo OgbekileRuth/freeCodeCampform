@@ -1,9 +1,9 @@
-
 body {
     background-image:url('Bg-image.avif');
     background-repeat:no-repeat;
     background-image: cover;
 }
+
 .formdiv{
     background-color:rebeccapurple;
     background-image: center;
@@ -19,8 +19,9 @@ body {
 }
 
 p{
-    font-size: 30px;
+font-size: 30px;
 }
+
 textarea{
     background-color:none;
     opacity: 0.2;
@@ -39,7 +40,7 @@ input[type="email"] {
     display: block;
     text-align: left;
     padding: 10px 10px;
-    width: 650px;
+    width: 640px;
   }
 
   button {
